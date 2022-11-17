@@ -1,0 +1,15 @@
+[submodule "design_files/enclosure"]
+	path = design_files/enclosure
+	url = https://github.com/iorodeo/open_colorimeter_enclosure
+[submodule "design_files/cuvette_holder"]
+	path = design_files/cuvette_holder
+	url = https://github.com/iorodeo/cuvette_holder
+[submodule "design_files/basic_led_pcb"]
+	path = design_files/basic_led_pcb
+	url = https://github.com/iorodeo/basic_led
+[submodule "software/circuitpython_firmware"]
+	path = software/circuitpython_firmware
+	url = https://github.com/iorodeo/open_colorimeter_firmware
+[submodule "software/utilities"]
+	path = software/utilities
+	url = https://github.com/iorodeo/open-colorimeter-utils
